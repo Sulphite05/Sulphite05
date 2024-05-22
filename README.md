@@ -1,4 +1,4 @@
-![logo](https://github.com/Sulphite05/Profile/blob/main/%80aqibaabdulqadir%80gmail.com-2.png)
+![logo](https://github.com/Sulphite05/Sulphite05/blob/main/banner%20link.png)
 
 <h1 align="center">Hi 👋, I'm Aqiba aka Sulphite</h1>
 <h3 align="center">An Undergrad Computer Engineer brimming with innovative ideas</h3>
