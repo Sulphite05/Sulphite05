@@ -31,7 +31,7 @@
 <br /> 
 <h2 align="left">GitHub Stats:</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulphite05&" alt="sulphite05" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Sulphite05&theme=radical" alt="GitHub Streak" alt="sulphite05"/></p>
 <br /> 
 <h2 align="left">LeetCode Stats:</h2>
 
