@@ -17,7 +17,7 @@
 <h2 align="left">Connect With Me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/aqiba-abdul-qadir-71167220b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aqiba-abdul-qadir-71167220b/" height="70" width="80" /></a>
-<a href="https://www.youtube.com/c/@aqibastechcorner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aqibastechcorner" height="70" width="80" /></a>
+<a href="https://www.youtube.com/@aqibastechcorner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aqibastechcorner" height="70" width="80" /></a>
 <a href="https://www.leetcode.com/sulphite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sulphite" height="70" width="80" /></a>
 <a href="https://fb.com/profile.php?id=100091481550147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100091481550147" height="70" width="80" /></a>
 </p>
