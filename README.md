@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **MIPS programs**
 
-- 🌱 I’m currently learning **Flutter, Firebase, SQL and Assembly**
-
-- 🤝 I’m looking for help with **My first Flutter App**
+- 🌱 I’m currently learning **Web Development and GenAI**
   
 - 💬 Ask me about **Python**
 
@@ -34,6 +32,3 @@
 <h2 align="left">GitHub Stats:</h2>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sulphite05&theme=radical" alt="GitHub Streak" alt="sulphite05"/></p>
 <br /> 
-<h2 align="left">LeetCode Stats:</h2>
-<p align="center"> <img align="center" src="https://leetcard.jacoblin.cool/sulphite?theme=dark&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap" alt="LeetCode Stats"/></p>
-
