@@ -34,6 +34,7 @@
 <h2 align="left">GitHub Stats:</h2>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sulphite05&theme=radical" alt="GitHub Streak" alt="sulphite05"/></p>
 
+![Visitor Count](https://profile-counter.glitch.me/Sulphite05/count.svg)
 
 
 
