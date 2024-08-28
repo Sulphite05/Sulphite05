@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Aqiba aka Sulphite</h1>
 <h3 align="center">An Undergrad Computer Engineer brimming with innovative ideas</h3>
 
-- 🔭 I’m currently working on **MIPS programs**
+- 🔭 I’m currently working on **Obey The Testing Goat**
 
-- 🌱 I’m currently learning **Web Development and GenAI**
+- 🌱 I’m currently learning **TDD and GenAI**
   
 - 💬 Ask me about **Python**
 
